@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxrw-r--
+chmod -111 110 100
